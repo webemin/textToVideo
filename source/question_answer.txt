@@ -1,0 +1,3 @@
+soru1::cevap1
+soru2::cevap2
+soru3::cevap3
